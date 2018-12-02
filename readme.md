@@ -16,6 +16,6 @@ $ python LibsvmToCsv.py <input_path> <output_path>
 
 ```
 $ javac LibsvmToCsv.java
-$ java LibsvmToCsv <input_path> <output_path
+$ java LibsvmToCsv <input_path> <output_path>
 ```
 
