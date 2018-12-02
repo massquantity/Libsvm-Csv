@@ -8,14 +8,14 @@
 
 ### Usage
 
-```python
-python LibsvmToCsv.py <input_path> <output_path>
+```
+$ python LibsvmToCsv.py <input_path> <output_path>
 ```
 
 
 
 ```
-javac LibsvmToCsv.java
-java LibsvmToCsv <input_path> <output_path
+$ javac LibsvmToCsv.java
+$ java LibsvmToCsv <input_path> <output_path
 ```
 
