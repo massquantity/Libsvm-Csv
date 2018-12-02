@@ -1,4 +1,4 @@
-### Convert LibSVM to CSV format
+## Convert LibSVM to CSV format
 
 
 
@@ -6,9 +6,11 @@
 
 
 
-#### Usage
+### Usage
 
-`python LibsvmToCsv.py <input_path> <output_path>`
+```python
+python LibsvmToCsv.py <input_path> <output_path>
+```
 
 
 
